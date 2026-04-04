@@ -23,8 +23,8 @@ Players take turns clicking on empty cells
 First player to get 3 marks in a row (horizontal, vertical, diagonal) wins
 If all cells are filled and no winner → it's a draw
 
-#💡 Learning Outcomes
-Understanding game logic implementation
-DOM manipulation in JavaScript
-Handling user interactions
-Writing clean and structured code
+###💡 Learning Outcomes
+- Understanding game logic implementation
+- DOM manipulation in JavaScript
+- Handling user interactions
+- Writing clean and structured code
