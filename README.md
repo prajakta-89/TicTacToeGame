@@ -19,8 +19,6 @@ Tic Tac Toe Game  This is a simple and interactive Tic Tac Toe game built using 
   <img src="showcase.png" width="400"/>
 </p>
 
-![showcase](showcase.png)
-
 ## ▶️ How to Play
 - Player 1 starts with X, Player 2 uses O
 - Players take turns clicking on empty cells
