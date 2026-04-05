@@ -15,8 +15,8 @@ Tic Tac Toe Game  This is a simple and interactive Tic Tac Toe game built using 
 - JavaScript
 
 ## Game showcase
-<p align="center">
-  <img src="showcase.png" width="400"/>
+<p>
+  <img src="showcase.png" width="300"/>
 </p>
 
 ## ▶️ How to Play
